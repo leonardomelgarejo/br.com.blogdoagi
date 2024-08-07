@@ -68,5 +68,5 @@ mvn clean test
 
 ## Relatórios de Testes
 
-O relatório de teste será gerado na pasta target/surefire-reports/emailable-report.html e na aba Actions\Summary da sua respectiva execução do GHA-CI. Você pode visualizar esses relatórios para obter detalhes sobre as execuções dos testes.
+O relatório de teste será gerado na pasta target/surefire-reports/emailable-report.html e na aba Actions\Summary da sua respectiva execução do GHA-CI, no link com o nome Test Report. Você pode visualizar esses relatórios para obter detalhes sobre as execuções dos testes.
 
