@@ -49,7 +49,6 @@ Este projeto é um exemplo de automação de testes, utilizando Selenium WebDriv
 1 Clone o repositório:
 ```
 git clone https://github.com/leonardomelgarejo/br.com.blogdoagi.git
-cd projeto-automacao-selenium
 ```
 
 2 Instale as dependências do Maven:
